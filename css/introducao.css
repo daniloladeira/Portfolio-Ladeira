@@ -5,6 +5,14 @@
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 100px
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.introducao.visible {
+    opacity: 1;
+    transform: translateY(0);
 }
 
 .introducao h1 {
