@@ -11,6 +11,7 @@ Projeto de portfolio para praticar.
 
 - **HTML5**: Marcações semânticas e acessíveis
 - **CSS3**: Utilizado para estilização e layout responsivo
+- **JavaScript**: Animações de rolagem na página
 - **Google Fonts**: Fontes personalizadas (Fira Sans)
 - **SVG**: Imagens vetoriais para ícones e elementos gráficos
 
